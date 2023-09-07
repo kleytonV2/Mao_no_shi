@@ -1,0 +1,21 @@
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":-16.981531143188478,"y":-1.2066586017608643,"z":0.0016293097287416459},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":21.855207443237306,"orthographic":true}
+=======
+<<<<<<< Updated upstream
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":3.059999942779541,"y":-2.2799999713897707,"z":0.0},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":5.269126892089844,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":8.902812957763672,"y":-0.661690354347229,"z":-0.04182549938559532},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":15.534221649169922,"orthographic":true}
+>>>>>>> Stashed changes
+>>>>>>> master
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":154.3714141845703,"y":2.675880193710327,"z":-0.1875},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":22.0,"orthographic":true}
+>>>>>>> polHouse
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":156.13758850097657,"y":-7.647258758544922,"z":-0.7215562462806702},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":75.42267608642578,"orthographic":true}
+>>>>>>> polHouse
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":8.902812957763672,"y":-0.661690354347229,"z":-0.04182549938559532},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":15.534221649169922,"orthographic":true}
+>>>>>>> Stashed changes

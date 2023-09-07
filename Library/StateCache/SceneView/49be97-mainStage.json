@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":285.1849060058594,"y":30.46746063232422,"z":-0.625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":96.99594116210938,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":8.197443962097168,"y":4.716104507446289,"z":20.293968200683595},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":35.527252197265628,"orthographic":true}
+>>>>>>> pol2
